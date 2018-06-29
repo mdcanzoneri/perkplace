@@ -1,0 +1,110 @@
+div.jumbotron {
+  background-image: url("skyline.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 20px;
+}
+
+img.jumbo-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+p.jumbo-lead {
+  text-align: center;
+  font-size: 28px;
+  color: #4b4a4b;
+  margin-top: 10px;
+}
+
+div.email-form {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 70px;
+  width: 30%;
+}
+
+button.submit-email {
+  background-color: #703f85;
+  color: white;
+}
+
+div.money-main {
+  margin-top: 100px;
+}
+
+h1.high-level {
+  color: #4b4a4b;
+}
+
+p.body-text {
+  color: #6f6f6f;
+}
+
+p.money {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+div.money {
+  padding-right:20px;
+  border-right: 1px solid #FBEC5D;
+}
+
+img.healthcare {
+  width: 200px;
+}
+
+div.learn-main {
+  margin-top: 150px;
+}
+
+p.learn {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+div.learn {
+  padding-left:20px;
+  border-left: 1px solid #FBEC5D;
+}
+
+img.learn {
+  width: 200px;
+}
+
+div.fringe-main {
+  margin-top: 150px;
+  margin-bottom: 100px;
+}
+
+p.fringe {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+div.fringe {
+  padding-right:20px;
+  border-right: 1px solid #FBEC5D;
+}
+
+img.fringe {
+  width: 200px;
+}
+
+div.footer {
+  background-image: url("skyline.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+}
+
+img.footer-logo {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 60px;
+}
