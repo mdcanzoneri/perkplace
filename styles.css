@@ -19,7 +19,7 @@ p.jumbo-lead {
   margin-top: 10px;
 }
 
-div.email-form {
+div.waitlist {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -27,7 +27,7 @@ div.email-form {
   width: 30%;
 }
 
-button.submit-email {
+button.waitlist {
   background-color: #703f85;
   color: white;
 }
@@ -107,4 +107,12 @@ img.footer-logo {
   margin-left: auto;
   margin-right: auto;
   padding-top: 60px;
+}
+
+button.waitlist-footer {
+  background-color: #703f85;
+  color: white;
+  padding-left: auto;
+  padding-right: auto;
+  margin-top: 20px;
 }
